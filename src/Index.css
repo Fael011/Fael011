@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@500&family=Lilita+One&display=swap');
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3{
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Lilita One', cursive;
+}
+
+p, a{
+  font-family: 'Anek Tamil', sans-serif;
+
+}
+
+p{
+  text-align: justify;
+}
+
+
+/*IMAGEM COM BORDA EM MOVIMENTO */
+

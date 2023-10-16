@@ -1,0 +1,95 @@
+.apresentation h1{
+    color: #020072;
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 2rem;
+}
+
+.title_apresentation {
+    margin-top: 2rem;
+}
+
+.image_smarmita{
+    display: flex;
+    justify-content: center;
+}
+
+.text_history{
+    margin-inline: 3.125rem;
+}
+
+.target_public {
+    background: #020072;
+}
+
+.target_public p{
+    padding-top: 1.875rem;
+    padding-inline: 3.125rem;
+    color: #fff;
+    padding-bottom: 9.5625rem;
+}
+
+.image_target_public{
+    display: flex;
+    justify-content: center;
+    padding-top: 8.0625rem;
+    padding-bottom: 5.625rem;
+}
+
+.apresentation p{
+    margin-bottom: 1rem;
+}
+
+
+.target_public h1{
+    font-size: 48px;
+    text-align: center;
+    color: white;
+}
+    
+
+.process h1{
+    color: #020072;
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 5rem;
+    margin-top: 2rem;
+}
+
+.process .video{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;
+}
+
+@media (min-width: 800px) {
+    .explication{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-inline: 5rem;
+    }
+
+
+    .explication img{
+        height: 460px;
+        width: 470px;
+    }
+    
+    .publico_alvo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 3rem; 
+    }
+
+    .publico_alvo  h1{
+        margin-top: 8.25rem ; 
+    }
+
+    .publico_alvo img{
+        height: 14.4375rem;
+        width: 24.375rem;
+    }
+
+}

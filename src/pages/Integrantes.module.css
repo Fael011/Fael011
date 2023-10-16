@@ -1,0 +1,55 @@
+.integrantes_mobile{
+    margin: 4rem;
+}
+
+.Integrantes h1{
+    color: #020072;
+    text-align: center;
+    font-size: 48px;
+    margin: 3.5625rem;
+}
+
+.integrantes_cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imagem {
+    height: 321px;
+    width: 307px;
+    display: flex;
+    justify-content: center;
+    border-radius: 24px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+    padding: 2rem;
+
+    background-color: #dcdcdc;
+    border-radius: 30px;
+    margin-bottom: 3rem;
+    margin-inline: 1rem;
+
+
+}
+
+.name {
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+    color: #020072;
+
+}
+
+.icons {
+    display: flex;
+
+    gap: 3rem;
+}

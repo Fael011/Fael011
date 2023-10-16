@@ -1,0 +1,60 @@
+.conteinerComponents:nth-child(even){
+    background-color: #020072;
+}
+.titleBlue{
+    color: #020072;
+    text-align: center;
+    font-size: 48px;
+    margin: 2rem;
+}
+
+.titleWhite{
+    color: #fff;
+    text-align: center;
+    font-size: 48px;
+    padding: 2rem;
+}
+
+.imgComponents{
+    display: flex;
+    justify-content: center;
+}
+
+.imgComponents img{
+    height: 320px;
+}
+
+
+
+.textBlue h3{
+    color: #020072;
+    font-size: 32px;
+    text-align: center;
+}
+
+.textBlue p{
+    color: #000000;
+    margin: 3rem;
+}
+
+.textWhite h3{
+    color: #fff;
+    font-size: 32px;
+    text-align: center;
+}
+
+.textWhite p{
+    color: #fff;
+    padding: 3rem;
+
+}
+
+@media (min-width: 800px){
+    .textWhite p{
+        margin-inline: 7rem;
+    }
+
+    .textBlue p{
+        margin-inline: 7rem;
+    }
+}
